@@ -1,0 +1,14 @@
+{
+  "notificacoes": [
+    {
+      "title": "Contracheques Liberados",
+      "body": "Os contracheques estão liberados. Verifique seu email ou sistema interno.",
+      "link": "https://mail.google.com/"  // Link opcional para redirecionamento (ex.: email ou drive)
+    },
+    {
+      "title": "Convocação para Funcionários",
+      "body": "Segue o link para funcionários comparecerem à empresa. Presença obrigatória.",
+      "link": "https://drive.google.com/drive/folders/18DKtlWH1lVIL61p-dy6CR8hx6BQ24GPZ?usp=sharing"  // Link do Google Drive ou outro
+    }
+  ]
+}
